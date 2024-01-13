@@ -45,4 +45,4 @@ python app.py
 ## Resources
 
 * [Dash](https://dash.plot.ly/)
-* Inspired by [Tableau template](https://www.tableau.com/solutions/workbook/improve-patient-satisfaction-improving-cycle-time).
+* Inspired by [Dash Gallery]([https://dash.gallery/dash-clinical-analytics/]).
