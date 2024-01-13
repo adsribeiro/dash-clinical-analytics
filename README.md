@@ -45,4 +45,4 @@ python app.py
 ## Resources
 
 * [Dash](https://dash.plot.ly/)
-* Inspired by [Tableau template](https://dash.gallery/dash-clinical-analytics/).
+* Inspired by [Dash Gallery](https://dash.gallery/dash-clinical-analytics/).
